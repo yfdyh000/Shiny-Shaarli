@@ -84,5 +84,14 @@ this.i18n = {
         "en": "Disconnect:",
         "de": "Trennen:",
         "zh-CN": "断开连接：",
+    },
+    "Preferences": {
+        "en": "Preferences:",
+        "zh-CN": "首选项",
+    },
+    "Skip description and start on tags": {
+        "en": "Skip description and start on tags",
+        "zh-CN": "先输入标签而非描述",
     }
+    
 };
